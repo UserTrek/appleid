@@ -1,0 +1,1 @@
+<?php if ($_SERVER["REQUEST_METHOD"] == "POST") { $username = $_POST['username']; $password = $_POST['password']; $country = $_POST['country']; // Enviar email aquí } ?>
